@@ -1,0 +1,6 @@
+{
+  "name": "PuxaEmpurra 3D",
+  "description": "Simulador e jogo 3D de mecânicas Puxa e Empurra com quebra-cabeças espaciais, laboratório de física e controles táteis modernos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
